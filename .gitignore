@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# Data & big files
+data/
+results/
+models/
+logs/
+checkpoints/
+*.pt
+*.bin
+*.ckpt
+
+# Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+cache/
+hf_cache/
